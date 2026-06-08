@@ -1,0 +1,6 @@
+{
+  "name": "Practical Philosophy Course",
+  "description": "An immersive online companion for a practical philosophy course, featuring weekly prompts, a reading list, journal, and student portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
